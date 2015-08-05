@@ -21,7 +21,7 @@
     <string name="status_bar_general_title">Općenito</string>
 
     <!-- Settings screens -->
-    <string name="system_settings_title">Opcije</string>
+    <string name="system_settings_title">Podešavanja</string>
 
     <!-- Advanced reboot options -->
     <string name="advanced_reboot_title">Napredno ponovno pokretanje uređaja</string>
@@ -208,6 +208,7 @@
     <string name="qs_tile_lockscreen">Zaključani zaslon</string>
     <string name="qs_tile_notifications">Zvuk</string>
     <string name="qs_tile_lte">LTE</string>
+    <string name="qs_screen_off_tile">Isključivanje zaslona</string>
     <string name="qs_expanded_desktop_tile">Proširena površina</string>
 
     <!--  Recents close all button -->
@@ -344,6 +345,8 @@
     <string name="privacy_guard_help_text">Na ovom zaslonu možeš odabrati za koje aplikacije će zaštita privatnosti biti aktivirana tako da pritisneš na tu aplikaciju. Odabrane aplikacije neće biti u mogućnosti pristupiti tvojim osobnim podacim kao što su kontakti, zapisi poziva ili poruke. Dugo držanje aplikacije otvara njezine detalje.\n\nSistemske aplikacije nisu prikazane po zadanom ali se mogu prikazati odabiranjem opcije u postavkama.</string>
     <string name="privacy_guard_manager_show_system_apps">Prikaži sistemske aplikacije</string>
     <string name="privacy_guard_advanced_settings_title">Napredno</string>
+    <string name="privacy_guard_notification_title">Obavijest</string>
+    <string name="privacy_guard_notifiation_summary">Prikaži obavijest ako je zaštita privatnosti omogućena</string>
     <string name="app_ops_summaries_coarse_location">približna lokacija</string>
     <string name="app_ops_summaries_fine_location">točna lokacija</string>
     <string name="app_ops_summaries_gps">GPS</string>
