@@ -198,6 +198,7 @@
     <string name="qs_tile_location">Posizione</string>
     <string name="qs_tile_cast_screen">Trasmetti schermo</string>
     <string name="qs_tile_lockscreen">Blocco schermo</string>
+    <string name="qs_screen_off_tile">Spegni schermo</string>
     <string name="qs_expanded_desktop_tile">Desktop esteso</string>
 
     <!-- Recents Close all button -->
@@ -439,7 +440,19 @@
     <!-- Status bar battery style -->
     <string name="status_bar_battery_style_circle_dotted">Cerchio (a punti)</string>
 
-   <!-- Notification ticker -->
+    <!-- Notification ticker -->
     <string name="status_bar_ticker_title">Notification Ticker</string>
     <string name="status_bar_ticker_summary">Testo della notifica animato nella barra di stato.</string>
+
+    <string name="privacy_guard_notification_title">Notifica</string>
+    <string name="privacy_guard_notifiation_summary">Mostra una notifica se il privacy guard è attivo.</string>
+
+    <!-- Status bar battery style -->
+    <string name="storage_options_category">Notifiche</string>
+    <string name="storage_menu_options">Avanzate</string>
+    <string name="storage_title_options">Opzioni memoria</string>
+    <string name="no_media_notification_title">Notifica rimozione memoria</string>
+    <string name="no_media_notification_summary">Mostra una notifica se la memoria è rimossa</string>
+    <string name="mount_notification_title">Notifica il montaggio</string>
+    <string name="mount_notification_summary">Mostra una notifica se la memoria è montanta</string>
 </resources>
