@@ -455,4 +455,10 @@
     <string name="no_media_notification_summary">Mostra una notifica se la memoria è rimossa</string>
     <string name="mount_notification_title">Notifica il montaggio</string>
     <string name="mount_notification_summary">Mostra una notifica se la memoria è montanta</string>
+
+    <!-- Lock screen settings -->
+    <string name="lockscreen_settings_title">Schermata di blocco</string>
+    <string name="lockscreen_wallpaper_title">Sfondo</string>
+    <string name="lockscreen_wallpaper_set_title">Imposta sfondo di blocco</string>
+    <string name="lockscreen_wallpaper_clear_title">Ripristina lo sfondo di blocco</string>
 </resources>

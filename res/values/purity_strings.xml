@@ -552,4 +552,11 @@
     <string name="no_media_notification_summary">Show notification when storage media is removed</string>
     <string name="mount_notification_title">Mount notification</string>
     <string name="mount_notification_summary">Display ongoing notification for mounted storage</string>
+
+    <!-- Lock screen settings -->
+    <string name="lockscreen_settings_title">Lock screen</string>
+    <string name="lockscreen_wallpaper_title">Wallpaper</string>
+    <string name="lockscreen_wallpaper_set_title">Set lock screen wallpaper</string>
+    <string name="lockscreen_wallpaper_clear_title">Clear lock screen wallpaper</string>
+    <string name="reset_lockscreen_wallpaper">Set to default</string>
 </resources>
