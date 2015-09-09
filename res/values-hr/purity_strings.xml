@@ -78,6 +78,7 @@
     <string name="volbtn_music_controls_summary">Kada je zaslon isključen, dugo držanje tipki glasnoće brzo će tražiti kroz trenutnu pjesmu</string>
     <string name="link_volume_option_title">Poveži glasnoću zvona i obavijesti</string>
     <string name="notification_volume_option_title">Glasnoća obavijesti</string>
+    <string name="ring_notification_volume_option_tile">Glasnoća zvona i obavijesti</string>
 	
     <!-- Safe headset volume restore checkbox -->
     <string name="safe_headset_volume_title">Sigurna glasnoća za slušalice</string>
@@ -500,4 +501,11 @@
     <!-- NavRing -->
     <string name="navigation_ring_title">Brzi prečaci navigacijske trake</string>
     <string name="navigation_ring_message">Dodirni ikonu za uređivanje kako bi otključao prečace navigacijske trake i omogućio izmjene.\n\nOdaberi polje kako bi promijenio njezin prečac.\n\nDodirni kvačicu kako bi spremio promjene, ili vraćanje za vraćanje zadanih postavki.</string>
+
+    <!-- Lock screen settings -->
+    <string name="lockscreen_settings_title">Zaključani zaslon</string>
+    <string name="lockscreen_wallpaper_title">Pozadina</string>
+    <string name="lockscreen_wallpaper_set_title">Postavi pozadinu zaključanog zaslona</string>
+    <string name="lockscreen_wallpaper_clear_title">Ukloni pozadinu zaključanog zaslona</string>
+    <string name="reset_lockscreen_wallpaper">Pozadinska slika uklonjena</string>
 </resources>
